@@ -112,7 +112,7 @@ e. Output directory creation
 ```
 Thus, `config.mk` is essential to correctly registering your design inside the OpenROAD-flow-scripts directory structure and ensuring that the entire PnR flow runs with the right inputs.
 
-[View Config.mk File](#Config.mk)
+[View Config.mk File](./config.mk)
 
 ---
 
