@@ -24,7 +24,7 @@ make DESIGN_CONFIG=./designs/sky130hd/VSDBabySoC/config.mk place
 ---
 ## Placement View
 
-![Placement](.Screenshots/Placement_view.jpg)
+![Placement](.Screenshots/placement_view.jpg)
 
 **Observation**
 
