@@ -16,15 +16,15 @@ make DESIGN_CONFIG=./designs/sky130hd/VSDBabySoC/config.mk place
 ---
 ## Terminal Screenshot
 
-![placement](.Screenshots/Placement_1.jpg)
+![placement](.Screenshots/Placement__1.jpg)
 
 
-![placement1](.Screenshots/placement_2.jpg)
+![placement1](.Screenshots/Placement__2.jpg)
 
 ---
 ## Placement View
 
-![Placement2](.Screenshots/placement_view.jpg)
+![Placement2](.Screenshots/Placement__view.jpg)
 
 **Observation**
 
